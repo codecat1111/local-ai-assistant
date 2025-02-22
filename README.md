@@ -56,7 +56,7 @@ This extension comprises multiple modular components:
 - **response.js**: Formats and displays the computational output returned by the AI model.
 - **manifest.json**: Configures essential permissions, runtime behaviors, and metadata for Chrome extension deployment.
    <p align="center">
-     <img src="[image-url](https://github.com/user-attachments/assets/3ecbeac9-5016-45f0-933e-e0344ac7a3a1)" width="50%" alt="A Use-Case Diagram showing how the system works">
+     <img src="" width="50%" alt="A Use-Case Diagram showing how the system works">
    </p>
    <p align="center"><em>A Use-Case Diagram showing how the system works</em></p>
 
