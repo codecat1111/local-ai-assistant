@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Response</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .code-block {
+            background-color: #f5f5f5;
+            padding: 15px;
+            border-radius: 4px;
+            font-family: monospace;
+            margin: 10px 0;
+            overflow-x: auto;
+        }
+        .ask-container {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+        }
+        .ask-input {
+            display: flex;
+            gap: 10px;
+        }
+        .ask-input textarea {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            resize: vertical;
+            min-height: 40px;
+            font-family: Arial, sans-serif;
+        }
+        .ask-input button {
+            padding: 10px 20px;
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .ask-input button:hover {
+            background-color: #3367d6;
+        }
+        .ask-input button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        #response-content {
+            margin-bottom: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div id="response-content"></div>
+    <div class="ask-container">
+        <div class="ask-input">
+            <textarea id="question-input" placeholder="Ask a follow-up question..."></textarea>
+            <button id="ask-button">Ask</button>
+        </div>
+    </div>
+    <script src="response.js"></script>
+</body>
+</html>
