@@ -56,7 +56,7 @@ This extension comprises multiple modular components:
 - **response.js**: Formats and displays the computational output returned by the AI model.
 - **manifest.json**: Configures essential permissions, runtime behaviors, and metadata for Chrome extension deployment.
    <p align="center">
-     <img src="" width="50%" alt="A Use-Case Diagram showing how the system works">
+     <img src="https://github.com/codecat1111/local-ai-assistant/blob/main/assets/architecture_dig.png" width="50%" alt="A Use-Case Diagram showing how the system works">
    </p>
    <p align="center"><em>A Use-Case Diagram showing how the system works</em></p>
 
@@ -79,7 +79,32 @@ async function queryOllama(prompt, model = "qwen2.5:0.5b")
 
 [**YouTube Demo Link**](#)
 
-Screenshots showcasing step-by-step usage and output will be added here. 📸🖥️📝
+Screenshots: 📸🖥️📝
+1. Extension UI
+
+ <p align="center">
+     <img src="https://github.com/codecat1111/local-ai-assistant/blob/main/assets/Screenshot 2025-02-22 153934.png" width="90%" alt=">Extension UI">
+   </p>
+<p align="center"><em>Extension UI</em></p>
+
+2. Commands to run to start allow communication between Ollama and Chrome (or any browser)
+ <p align="center">
+     <img src="https://github.com/codecat1111/local-ai-assistant/blob/main/assets/Screenshot 2025-02-22 154241.png" width="50%" alt="Commands to run to start allow communication between Ollama and Chrome (or any browser)">
+   </p>
+<p align="center"><em>Commands to run to start allow communication between Ollama and Chrome (or any browser)</em></p>
+3. An Ask Anything Feature in use
+
+ <p align="center">
+     <img src="https://github.com/codecat1111/local-ai-assistant/blob/main/assets/Screenshot 2025-02-22 154639.png" width="90%" alt="An Ask Anything Feature in use">
+   </p>
+<p align="center"><em>An Ask Anything Feature in use</em></p>
+
+4. Server Side Logs
+
+ <p align="center">
+     <img src="https://github.com/codecat1111/local-ai-assistant/blob/main/assets/Screenshot 2025-02-22 154735.png" width="50%" alt="Server Side Logs">
+   </p>
+<p align="center"><em>Server Side Logs</em></p>
 
 ## Contribution Guidelines ✍️🔄🤝
 
