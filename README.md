@@ -1,4 +1,4 @@
-# AI Text Assistant - Chrome Extension ✨🖥️🚀
+# Local AI Assistant - Chrome Extension ✨🖥️🚀
 
 ## Overview 🎯📜💡
 
