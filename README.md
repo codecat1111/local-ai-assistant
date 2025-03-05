@@ -30,7 +30,7 @@ Before running the extension, follow these steps to configure Ollama properly:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai-text-assistant.git
+   git clone https://github.com/codecat1111/local-ai-assistant.git
    cd ai-text-assistant
    ```
 2. Ensure that Ollama is installed and operational.
