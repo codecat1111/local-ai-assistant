@@ -92,12 +92,12 @@ Screenshots: 📸🖥️📝
      <img src="https://github.com/codecat1111/local-ai-assistant/blob/main/assets/Screenshot 2025-02-22 154241.png" width="50%" alt="Commands to run to start allow communication between Ollama and Chrome (or any browser)">
    </p>
 <p align="center"><em>Commands to run to start allow communication between Ollama and Chrome (or any browser)</em></p>
-3. An Ask Anything Feature in use
+3. A Summarize Feature in use
 
  <p align="center">
      <img src="https://github.com/codecat1111/local-ai-assistant/blob/main/assets/Screenshot 2025-02-22 154639.png" width="90%" alt="An Ask Anything Feature in use">
    </p>
-<p align="center"><em>An Ask Anything Feature in use</em></p>
+<p align="center"><em>A Summarize Feature in use</em></p>
 
 4. Server Side Logs
 
