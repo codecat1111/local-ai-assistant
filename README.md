@@ -124,6 +124,10 @@ Screenshots: 📸🖥️📝
 
 This software is distributed under the MIT License. 🏆📄🛡️
 
+## ⭐ Found It Helpful? [Star It!](https://github.com/codecat1111/local-ai-assistant/stargazers)
+
+If you found this project helpful, let the community know by giving it a [star](https://github.com/codecat1111/local-ai-assistant/stargazers): [👉⭐](https://github.com/codecat1111/local-ai-assistant/stargazers)
+
 ---
 
 For inquiries, feature requests, or to report issues, please utilize the GitHub issue tracking system or contribute via pull requests. 💬📢📩
