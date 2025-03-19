@@ -12,7 +12,7 @@ Before running the extension, follow these steps to configure Ollama properly:
 
 1. **Install Ollama** from the official [Ollama website](https://ollama.ai/).
 2. **Download the model** you want to use (default: 300M parameters for optimal performance on most laptops). You can find official instructions for downloading and installing models in the [Ollama documentation](https://github.com/ollama/ollama/blob/main/README.md#model-library).
-3. **Configure Ollama to Accept Chrome Requests (One-time Setup):**
+3. **Configure Ollama to Accept Chrome Requests:**
    - Open Windows PowerShell and execute:
      ```powershell
      ollama stop # Stops Ollama if running
