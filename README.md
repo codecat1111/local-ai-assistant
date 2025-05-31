@@ -77,7 +77,7 @@ async function queryOllama(prompt, model = "qwen2.5:0.5b")
 
 ## Screenshots & Demo 🎥🖼️
 
-[**YouTube Demo Link**](#)
+[**YouTube Demo Link(coming soon!)**](#)
 
 Screenshots: 📸🖥️📝
 1. Extension UI
